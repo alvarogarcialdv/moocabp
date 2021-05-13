@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: MOOCABP
+nav:
+- 1. Inicio: 'README.md'
+- About:
+    - 'Licencia': 'licencia.md'
+
+
+##theme: 'windmill'
+##theme: 'cinder'
+## theme: 'rtd-dropdown'
+theme:
+  name: 'material'
+  language: 'es'
+
+markdown_extensions:
+  - admonition
+  - codehilite
