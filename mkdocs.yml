@@ -1,6 +1,7 @@
 site_name: MOOCABP
 nav:
 - 1. Inicio: 'README.md'
+- 2. Prototipo: 'Prototipo.md'
 - About:
     - 'Licencia': 'licencia.md'
 
